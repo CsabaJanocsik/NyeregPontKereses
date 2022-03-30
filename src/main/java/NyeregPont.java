@@ -8,7 +8,7 @@ public class NyeregPont {
     public NyeregPont()
     {
 //Mátrix megadása
-        int[][] matrix = {{4, 5, 6}, {7, 18, 9}, {5, 1, 3}};
+        int[][] matrix = {{3, 3, 3}, {1, 1, 1}, {2, 1, 3}};
 //Függvény hívása
         NyeregPontKereses(matrix);
     }
